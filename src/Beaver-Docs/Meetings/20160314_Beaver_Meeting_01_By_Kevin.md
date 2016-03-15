@@ -43,13 +43,13 @@
 ###兴趣：
 (3) full-stack, 系统设计
 
-##3. Ross：张艺浩: 10年工作经验, 目前在OTPP工作，做cloud app相关。
+##3. Ross: 10年工作经验, 目前在OTPP工作，做cloud app相关。
 ###擅长：
 (1) Cloud开发
 (2) Java + Spring + 自动化
 (3) Angular
 
-###感兴趣：大数据tachyon, 动态语言: python, scala， devops, 算法和数据结构
+###感兴趣：大数据Spark, Tachyon, 动态语言: python, scala， devops, 算法和数据结构
 希望了解不同框架/技术优劣，对系统架构比较感兴趣
 
 ##4. 阳靳光-jerry: 在一个startup做full stack,

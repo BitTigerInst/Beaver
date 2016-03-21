@@ -1,0 +1,126 @@
+
+.property-image {
+    width: 23.72881%;
+    float: left;
+}
+.property-details {
+    width: 74.57627%;
+    float: left;
+    margin-right: 1.69492%;
+    padding-left: 6.77966%;
+}
+
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.message-box {
+    display: inline;
+}
+
+.message-form {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.upload-img-btn {
+    background-color: transparent !important;
+}
+
+.upload-icon {
+    height: 35px;
+    width: 35px;
+    z-index: 0;
+}
+
+.default-upload-btn {
+    margin-left: -35px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    opacity: 0 !important;
+}
+
+.md-button {
+  background-color: #fc675e;
+}
+.md-button:hover {
+    background-color: #fb4136;
+}
+
+.list-item-body {
+    height: 100% !important;
+}
+
+.message-body-img {
+    height: 50%;
+    width: 50%;
+}
+.gallery {
+    margin: 0 auto;
+    margin-top: 3.38983%; }
+@media (min-width: 63em) {
+    .gallery {
+        max-width: 60%; } }
+
+.gallery-item {
+    position: relative;
+    margin-bottom: 3rem;
+    margin-top: 2rem; }
+@media (max-width: 0) {
+    .gallery-item {
+        margin-bottom: 8%; } }
+
+.gallery-image {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    max-width: 100%; }
+
+.avatar {
+    border-radius: 50%;
+    float: left;
+    margin-right: 5%;
+    width: 70px; }
+
+.gallery-user,
+.gallery-time,
+.gallery-caption {
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem; }
+
+.gallery-user {
+    display: inline-block; }
+.gallery-user a {
+    color: #fc675e;
+    border-bottom: 1px solid transparent;
+    text-transform: capitalize;
+    text-decoration: none;
+    -webkit-transition: border-color .36s ease-in-out;
+    transition: border-color .36s ease-in-out; }
+.gallery-user a:hover {
+    border-color: white; }
+
+.gallery-details {
+    margin-left: 15%;
+}
+
+.property-image {
+  border-radius: 50%; }
+  @media (max-width: 64em) {
+    .property-image {
+      max-height: 200px; } }
+
+.property-details p + p {
+  margin-bottom: 0;
+  margin-top: .25rem; }
+
+.property-details p > span {
+  font-weight: 700; }
+
+@media (max-width: 0) {
+  .property-details {
+    max-height: 227px;
+    overflow-y: hidden; } }
